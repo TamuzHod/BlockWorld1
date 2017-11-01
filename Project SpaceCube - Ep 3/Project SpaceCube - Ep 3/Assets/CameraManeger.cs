@@ -86,7 +86,7 @@ public class CameraManeger : MonoBehaviour {
     // Update is called once per frame
     void OrbitCamera () {
         //You can't orbit when in flight mode
-        // if(!isEditMode)  { return; }
+        if(!isEditMode)  { return; }
 
         if( Input.GetMouseButtonDown(1) == true)
         {

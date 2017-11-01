@@ -16,7 +16,7 @@ public class Thruster : KeybinableComponent
         Rigidbody r;
     }
 
-    float ThrusterStrength = 10f;
+    public float ThrusterStrength = 10f;
 
     Rigidbody shipRigidbody;
 
