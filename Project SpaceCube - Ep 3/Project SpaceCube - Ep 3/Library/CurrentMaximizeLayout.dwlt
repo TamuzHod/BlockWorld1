@@ -22,7 +22,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 22008, y: 14042}
   vertical: 1
-  controlID: 158
+  controlID: 149
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 22008, y: 14042}
   vertical: 0
-  controlID: 159
+  controlID: 150
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 242}
   m_MaxSize: {x: 8002, y: 8042}
   vertical: 1
-  controlID: 160
+  controlID: 151
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 121}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 161
+  controlID: 126
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,8 +190,8 @@ MonoBehaviour:
     y: 0
     width: 427
     height: 512
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -398,7 +398,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 125
+  controlID: 100
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -454,7 +454,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: a6fbffff00000000
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -495,8 +495,8 @@ MonoBehaviour:
     y: 298
     width: 234
     height: 473
-  m_MinSize: {x: 234, y: 271}
-  m_MaxSize: {x: 10004, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -539,20 +539,19 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Materials
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Tamuz\Downloads\Project SpaceCube - Ep 3\Project SpaceCube
-    - Ep 3
+  m_LastProjectPath: C:\Users\Tamuz\Documents\GitHub\BlockWorld1\Project SpaceCube
+    - Ep 3\Project SpaceCube - Ep 3
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 5e220000
     m_LastClickedID: 8798
-    m_ExpandedIDs: 00000000ea27000032280000a4280000a6280000d62800000a29000064290000a0290000ca290000f42900001c2a0000242a0000562a0000b62c0000b82c0000ba2c0000
+    m_ExpandedIDs: 00000000ec27000034280000a6280000a8280000d82800000c29000066290000a2290000cc290000f62900001e2a0000262a0000582a0000b82c0000ba2c0000bc2c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -580,7 +579,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 12.073298}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ea27000032280000a4280000a6280000d62800000a29000064290000a0290000ca290000f42900001c2a0000242a0000562a0000b62c0000b82c0000ba2c0000
+    m_ExpandedIDs: 00000000ec27000034280000a6280000a8280000d82800000c29000066290000a2290000cc290000f62900001e2a0000262a0000582a0000b82c0000ba2c0000bc2c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
