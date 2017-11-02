@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project SpaceCube - Ep 3.Plugins", "Project SpaceCube - Ep 3.Plugins.csproj", "{0B7D342E-A744-BCC2-EEC1-647621523778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project SpaceCube - Ep 3", "Project SpaceCube - Ep 3.csproj", "{6ED1DA2A-9353-AD47-26BB-5676A66AA151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project SpaceCube - Ep 3.Editor.Plugins", "Project SpaceCube - Ep 3.Editor.Plugins.csproj", "{EB7670D6-A00F-AFA8-D93C-80E2EE3D7BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7D342E-A744-BCC2-EEC1-647621523778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7D342E-A744-BCC2-EEC1-647621523778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7D342E-A744-BCC2-EEC1-647621523778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7D342E-A744-BCC2-EEC1-647621523778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED1DA2A-9353-AD47-26BB-5676A66AA151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED1DA2A-9353-AD47-26BB-5676A66AA151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED1DA2A-9353-AD47-26BB-5676A66AA151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED1DA2A-9353-AD47-26BB-5676A66AA151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7670D6-A00F-AFA8-D93C-80E2EE3D7BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7670D6-A00F-AFA8-D93C-80E2EE3D7BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7670D6-A00F-AFA8-D93C-80E2EE3D7BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7670D6-A00F-AFA8-D93C-80E2EE3D7BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
